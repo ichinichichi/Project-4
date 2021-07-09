@@ -1,6 +1,6 @@
 # Selfie-related deaths on decline worldwide: A short analysis
 
-![25627afb71a8483f82fbae8195c9052a.webp](attachment:25627afb71a8483f82fbae8195c9052a.webp)
+![image](Images/25627afb71a8483f82fbae8195c9052a.webp)
 
 ### LEAD
 
@@ -15,7 +15,7 @@ Can we identify selfie-danger hotspots worldwide?
 
 
 
-![E1Asm-2016-is-the-year-with-the-most-selfie-related-accidents-while-2017-was-more-fatal.png](attachment:E1Asm-2016-is-the-year-with-the-most-selfie-related-accidents-while-2017-was-more-fatal.png)
+![E1Asm-2016-is-the-year-with-the-most-selfie-related-accidents-while-2017-was-more-fatal.png]
 
 There is a clear decrease from the incidents as well as the casualty count from 2017 to 2018. It is no surprise that 2016 had a lot of news reporting about selfie-deaths since a lot of them were happening this year. 
 
@@ -30,13 +30,13 @@ However, the biggest incident involving 48 injured people happend when a close b
 So there are different types people got injured, but what are the most common ones?
 
 
-![8Uu3F-the-most-common-cause-of-death-was-falling-from-a-height-and-drowning.png](attachment:8Uu3F-the-most-common-cause-of-death-was-falling-from-a-height-and-drowning.png)
+![8Uu3F-the-most-common-cause-of-death-was-falling-from-a-height-and-drowning.png]
 
 A short word analysis I did showed the most often mentioned words in all those accidents and the word "trains" were quite high up and were involved in most of the transport type selfie-deaths.
 
 It also showed that most selfie-takers were 20-22 years of age. [A 2018 study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6131996) showed that the mean age was 23 years old and usually male.
 
-![7shni-most-people-died-taking-selfies-in-india-than-anywhere-else.png](attachment:7shni-most-people-died-taking-selfies-in-india-than-anywhere-else.png)
+![7shni-most-people-died-taking-selfies-in-india-than-anywhere-else.png]
 
 Since 2019 India has no incidents anymore and looking at the last 3 year the US is leading the chart now. The danger zones seemes to have helped.
 
