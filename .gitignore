@@ -336,3 +336,5 @@ ASALocalRun/
 .ipynb_checkpoints
 .gitattributes
 .gitignore
+
+STORY.ipynb
